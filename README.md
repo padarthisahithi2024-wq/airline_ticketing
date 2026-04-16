@@ -6,7 +6,7 @@ Airline Ticketing System – Flight Connection Graph with CRUD Operations
 
 👥 Team Members
 Student 1: Padarthi Sahithi
-Student 2:
+Student 2: Syed Sameer Ahamed
 
 📖 Problem Statement
 Airline networks connect multiple airports through flights.
